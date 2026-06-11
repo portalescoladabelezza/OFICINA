@@ -1,0 +1,6 @@
+{
+  "name": "Auto Prime Oficina & Estética",
+  "description": "Modelo moderno, forte e comercial para oficinas mecânicas, lava-jatos e estética automotiva integrado com agendamento via WhatsApp.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
