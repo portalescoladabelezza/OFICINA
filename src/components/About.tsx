@@ -42,7 +42,7 @@ export default function About() {
             
             <div className="relative rounded-sm overflow-hidden aspect-video sm:aspect-square bg-[#111111] border border-white/5">
               <img
-                src="/src/assets/images/service_polish_1781145355667.png"
+                src="https://images.unsplash.com/photo-1507136566006-cfc505b114fc?auto=format&fit=crop&w=800&q=80"
                 alt="Polimento Profissional na Auto Prime"
                 className="w-full h-full object-cover transform scale-100 group-hover:scale-102 transition-transform duration-500"
                 referrerPolicy="no-referrer"

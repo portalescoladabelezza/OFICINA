@@ -59,7 +59,7 @@ export const config = {
       price: "Consulte",
       tag: "Destaque",
       tagColor: "bg-amber-400/10 text-amber-400 border border-amber-400/20",
-      image: "/src/assets/images/service_engine_1781145327612.png" // Our generated mechanic engine inspection
+      image: "https://images.unsplash.com/photo-1486006920555-c77dce18193b?auto=format&fit=crop&w=600&q=80" // Professional engine bay check
     },
     {
       id: "lava-jato-completo",
@@ -68,7 +68,7 @@ export const config = {
       price: "A partir de R$ 40,00",
       tag: "Popular",
       tagColor: "bg-blue-500/10 text-blue-400 border border-blue-500/20",
-      image: "/src/assets/images/service_foam_1781145341207.png" // Our generated high pressure soap foam wash
+      image: "https://images.unsplash.com/photo-1607860108855-64acf2078ed9?auto=format&fit=crop&w=600&q=80" // Soap foam wash
     },
     {
       id: "higienizacao-interna",
@@ -86,7 +86,7 @@ export const config = {
       price: "Consulte",
       tag: "Estética",
       tagColor: "bg-rose-500/10 text-rose-400 border border-rose-500/20",
-      image: "/src/assets/images/service_polish_1781145355667.png" // Our generated dual action orbital paint polishing
+      image: "https://images.unsplash.com/photo-1507136566006-cfc505b114fc?auto=format&fit=crop&w=600&q=80" // Paint polishing buffer
     },
     {
       id: "cristalizacao",
@@ -131,7 +131,7 @@ export const config = {
         "Limpeza de painel e console"
       ],
       tag: "Econômico",
-      image: "/src/assets/images/service_foam_1781145341207.png"
+      image: "https://images.unsplash.com/photo-1607860108855-64acf2078ed9?auto=format&fit=crop&w=600&q=80"
     },
     {
       id: "pacote-revisao-basica",
@@ -145,7 +145,7 @@ export const config = {
         "Checklist de 30 itens cruciais"
       ],
       tag: "Segurança Máxima",
-      image: "/src/assets/images/service_engine_1781145327612.png"
+      image: "https://images.unsplash.com/photo-1486006920555-c77dce18193b?auto=format&fit=crop&w=600&q=80"
     },
     {
       id: "pacote-estetica-premium",
@@ -159,7 +159,7 @@ export const config = {
         "Lavagem de motor inclusa"
       ],
       tag: "Destaque Estética",
-      image: "/src/assets/images/service_polish_1781145355667.png"
+      image: "https://images.unsplash.com/photo-1507136566006-cfc505b114fc?auto=format&fit=crop&w=600&q=80"
     }
   ],
 
@@ -172,13 +172,13 @@ export const config = {
     },
     {
       title: "Banho de Espuma Detalhado",
-      description: "Lavagem ativa com shampoo neutro protetor.",
-      image: "/src/assets/images/service_foam_1781145341207.png"
+      description: "Lavagem active com shampoo neutro protetor.",
+      image: "https://images.unsplash.com/photo-1607860108855-64acf2078ed9?auto=format&fit=crop&w=800&q=80"
     },
     {
       title: "Diagnóstico Motor de Performance",
       description: "Scanner ativo e checklist integral sob o capô.",
-      image: "/src/assets/images/service_engine_1781145327612.png"
+      image: "https://images.unsplash.com/photo-1486006920555-c77dce18193b?auto=format&fit=crop&w=800&q=80"
     },
     {
       title: "Serviço de Troca Lubrificante",
@@ -188,7 +188,7 @@ export const config = {
     {
       title: "Polimento Técnico Paint Correction",
       description: "Eliminação profunda de hologramas e micro-riscos.",
-      image: "/src/assets/images/service_polish_1781145355667.png"
+      image: "https://images.unsplash.com/photo-1507136566006-cfc505b114fc?auto=format&fit=crop&w=800&q=80"
     },
     {
       title: "Cabine Interna Higienizada",

@@ -14,7 +14,7 @@ export default function Hero() {
       {/* Background Image with Dark Vignette */}
       <div className="absolute inset-0 z-0">
         <img
-          src="/src/assets/images/hero_bg_1781145311680.png"
+          src="https://images.unsplash.com/photo-1618843479313-40f8afb4b4d8?auto=format&fit=crop&w=1600&q=80"
           alt="Modern Auto Prime Detailing Studio"
           className="w-full h-full object-cover object-center opacity-30 md:opacity-40 transition-transform duration-700 hover:scale-103"
           referrerPolicy="no-referrer"
